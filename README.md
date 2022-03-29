@@ -1,4 +1,5 @@
-👋 Hi, I’m @Ed-Dijkstra. I'm a game design student situated in the Netherlands.
+👋 Hi, I’m @Ed-Dijkstra.\
+I'm a game design student situated in the Netherlands.
 
 👀 I’m interested in ...
 - Role-playing games (Tabletop or Video games)
@@ -17,13 +18,14 @@
 - Blender
 - General game design
 - Few daily minutes of DuoLingo (Japanese)
+
 I'm always looking for ways to develop other skills (2d art, creative writing, sound design) but not currently working on anything.
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on ...\
 Anything that fits my interests and schedule. Feel free to reach out!
 
-📫 How to reach me ...
-Always available on Discord:
+📫 How to reach me ...\
+Always available on Discord:\
 JunT#8998
 
 <!---
